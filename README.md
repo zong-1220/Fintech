@@ -1,5 +1,4 @@
 # Fintech
-===
 
 HW1: What do you think of cloud computing?
 ---
