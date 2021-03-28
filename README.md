@@ -7,8 +7,8 @@ HW1: What do you think of cloud computing?
 
 HW2: Build a Website using Amazon EC2 with LAMP
 ---
->[HW2]()
->NONE
+>[HW2](https://www.youtube.com/watch?v=IbbKjBTj3pQ)
+>DONE
 
 HW3: Build a Website using Amazon S3(Versioning) and AWS Amplify
 ---
