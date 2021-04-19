@@ -29,3 +29,5 @@ HW6: Create a Docker Container or Build your own Project Services
 ---
 >[HW6]()
 >NONE
+
+>[第一次進度回報](https://www.youtube.com/watch?v=yPCs7PukXaQ)
