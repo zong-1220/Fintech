@@ -22,8 +22,8 @@ HW4: Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
 
 HW5: Create a Database using Amazon RDS or Amazon DynamoDB
 ---
->[HW5]()
->NONE
+>[HW5](https://youtu.be/8c6naNgF-oA)
+>DONE
 
 HW6: Create a Docker Container or Build your own Project Services
 ---
