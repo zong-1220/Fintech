@@ -1,33 +1,44 @@
-# Fintech
+# Fintech_2020
+> * Course : 雲端運算服務
+> * Professor : 蔡芸琤 pecutsai@gm.scu.edu.tw
 
-HW1: What do you think of cloud computing?
+## My Information
+> * Name : 張祐綜
+> * Major : Soochow University Big Data Management
+> * Student ID : 08170142
+> * Gmail : daniel.chang1220@gmail.com
+
 ---
->[HW1](https://github.com/zong-1220/Fintech/blob/main/1%E8%99%9F/HW1.md)
->DONE
 
-HW2: Build a Website using Amazon EC2 with LAMP
+
+#### HW1
+> * [HW1](https://youtu.be/IbbKjBTj3pQ)  - What do I think of cloud computing?
+
+
+#### HW2
+> * [HW2](https://youtu.be/QyvI2S8wrks)  - Build a Website using Amazon EC2 with LAMP!
+
+
+#### HW3
+> * [HW3](https://youtu.be/T3qPVJEkV50)  - Build a Website using Amazon S3 and AWS Amplify!
+
+
+#### HW4
+> * [HW4](https://youtu.be/T3qPVJEkV50)  - Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda!
+
+
+#### HW5
+> * [HW5](https://youtu.be/8c6naNgF-oA)  - Create a Database using Amazon RDS or Amazon DynamoDB!
+
+
+#### HW6
+> * [HW6]()  - Create a Docker Container or Build your own Project Services
+
+
 ---
->[HW2](https://www.youtube.com/watch?v=IbbKjBTj3pQ)
->DONE
 
-HW3: Build a Website using Amazon S3(Versioning) and AWS Amplify
----
->[HW3](https://www.youtube.com/watch?v=QyvI2S8wrks)
->DONE
+### Project Description
+  > * 主題：安侯建業－行程保單設計
+  > * 組員：張祐綜、邱鈺傑、陳詠樺、游崴傑、黃愉晏、蔡芷如
+  > * 題目說明：
 
-HW4: Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
----
->[HW4](https://www.youtube.com/watch?v=T3qPVJEkV50)
->DONE
-
-HW5: Create a Database using Amazon RDS or Amazon DynamoDB
----
->[HW5](https://youtu.be/8c6naNgF-oA)
->DONE
-
-HW6: Create a Docker Container or Build your own Project Services
----
->[HW6]()
->NONE
-
->[第一次進度回報](https://www.youtube.com/watch?v=yPCs7PukXaQ)
