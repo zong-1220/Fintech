@@ -42,3 +42,5 @@
   > * 組員：張祐綜、邱鈺傑、陳詠樺、游崴傑、黃愉晏、蔡芷如
   > * 題目說明：
 
+#### HW6
+> * [第二次進度回報](https://docs.google.com/presentation/d/1axQPZSLZoj1lktSH__bZZwo7vT7oFT9qAdIUZeS4mdg/edit#slide=id.p1)  
