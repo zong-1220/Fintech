@@ -43,4 +43,4 @@
   > * 題目說明：
 
 #### 進度回報
-> * [第二次進度回報](https://docs.google.com/presentation/d/1axQPZSLZoj1lktSH__bZZwo7vT7oFT9qAdIUZeS4mdg/edit#slide=id.p1)  
+> * [第二次進度回報](https://docs.google.com/presentation/d/1axQPZSLZoj1lktSH__bZZwo7vT7oFT9qAdIUZeS4mdg/edit?usp=sharing)  
