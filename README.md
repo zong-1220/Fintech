@@ -40,7 +40,9 @@
 ### Project Description
   > * 主題：安侯建業－行程保單設計
   > * 組員：張祐綜、邱鈺傑、陳詠樺、游崴傑、黃愉晏、蔡芷如
-  > * 題目說明：
+  > * 題目說明：汽車保險創新模式、行程保單投保app、假日傳統保單優化、UBI分析駕駛行為
 
 #### 進度回報
 > * [第二次進度回報](https://docs.google.com/presentation/d/1axQPZSLZoj1lktSH__bZZwo7vT7oFT9qAdIUZeS4mdg/edit?usp=sharing)  
+> * [三分鐘成果報告](https://youtu.be/z8i3ryjgN9k)
+> * [十五分鐘成果報告](https://youtu.be/eQxMPDXraso)
