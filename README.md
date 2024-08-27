@@ -45,4 +45,4 @@
 #### 進度回報
 > * [第二次進度回報](https://docs.google.com/presentation/d/1axQPZSLZoj1lktSH__bZZwo7vT7oFT9qAdIUZeS4mdg/edit?usp=sharing)  
 > * [三分鐘成果報告](https://youtu.be/z8i3ryjgN9k)
-> * [十五分鐘成果報告]([https://youtu.be/eQxMPDXraso](https://youtu.be/voB79DjHWrQ))
+> * [十五分鐘成果報告](https://youtu.be/voB79DjHWrQ))
